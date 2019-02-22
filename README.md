@@ -10,10 +10,10 @@ Script installs openvpn extras (kali linux) and reboots when done. open vpn shou
  cd openvpn-extras-kali-linux
  
  
- chmod +x openvnpextras.sh 
+ chmod +x openvpnextras.sh 
  
  
- ./openvnpextras.sh 
+ ./openvpnextras.sh 
  
 
 [openvpn how to video](https://www.bitchute.com/video/T4lzHvsIKMzg/ "title")
