@@ -14,3 +14,7 @@ Script installs openvpn extras (kali linux) and reboots when done. open vpn shou
  
  
  ./openvnpextras.sh 
+ 
+ 
+ 
+ [](`https://www.bitchute.com/video/T4lzHvsIKMzg/`)
