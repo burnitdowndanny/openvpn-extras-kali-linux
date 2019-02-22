@@ -5,6 +5,12 @@ Script installs openvpn extras (kali linux) and reboots when done. open vpn shou
  commands
  
  sudo apt install -y git; git clone https://github.com/burnitdowndanny/openvpn-extras-kali-linux.git
+ 
+ 
  cd openvpn-extras-kali-linux
+ 
+ 
  chmod +x openvnpextras.sh 
+ 
+ 
  ./openvnpextras.sh 
